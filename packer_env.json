@@ -36,6 +36,11 @@
       "type": "chef-solo",
       "cookbook_paths": ["./berks-cookbooks/"],
       "run_list": ["chefbook::default"]
+    },
+    {
+      "type": "file",
+      "source": "starter_code",
+      "destination": "/home/ubuntu/app"
     }
   ]
 }
