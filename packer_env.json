@@ -40,7 +40,7 @@
     {
       "type": "file",
       "source": "starter_code",
-      "destination": "/home/ubuntu/"
+      "destination": "/home/ubuntu/workspace/ci-it-jobs-watch"
     }
   ]
 }
